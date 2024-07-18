@@ -44,7 +44,7 @@ Develop a model that can identify fake news by analyzing both textual content an
 
 11.Few-Shot Cross-Modal Transfer Learning for Image Captioning:-
 Develop a model that can quickly adapt to generate accurate captions for images in new, unseen domains using only a few examples.
-I have explained here ,possible ideas and method i can use to work on this [link](Image-Captioning-Topic11)
+I have explained here ,possible ideas and method i can use to work on this [link](Image-Captioning-Topic11.md)
 
 12.
 
