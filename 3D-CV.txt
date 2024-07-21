@@ -1,1 +1,30 @@
+# Prerequisites:-
 
+[Link](https://viso.ai/computer-vision/3d-computer-vision/)
+
+Familiarity with libraries such as OpenCV, PCL
+
+Depth sensing technologies:
+
+Stereo vision
+Structured light
+Time-of-flight
+
+Architectures for 3D Vision:
+
+PointNet and PointNet++
+VoxelNet
+3D U-Net
+
+Tasks in 3D Deep Learning:
+
+3D object detection
+Semantic segmentation
+Instance segmentation
+Pose estimation
+
+Data Handling for 3D:
+
+Point cloud representations
+Voxel grids
+Mesh data structures
