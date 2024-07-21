@@ -3,7 +3,7 @@
 [Link](https://viso.ai/computer-vision/3d-computer-vision/)
 
 Familiarity with libraries such as OpenCV, PCL
-
+work on architectures like rcnn,3d rcnn and M3D-RPN
 Depth sensing technologies:
 
 Stereo vision
