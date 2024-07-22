@@ -211,6 +211,30 @@ Multimodal Retrieval Augmented Generation (RAG): Multimodal RAG combines LLMs wi
 Domain-Specific Prompt Engineering: Effective prompt engineering is crucial for optimizing the performance of LLMs in computer vision tasks. Practitioners emphasize the importance of domain-specific prompts to guide LLMs in interpreting and generating visual data accurately 
 
 
+# Research on long form video understanding in terms of agents, their goals,
+# intentionality and making prediction about what might happen.
+
+Agent Identification and Tracking:
+
+Recognizing and tracking individual agents (people, animals, or objects) across long video sequences
+Maintaining agent identity despite occlusions, camera movements, or appearance changes
+
+Goal and Intention Recognition:
+
+Inferring the objectives and motivations of agents based on their actions and context
+Distinguishing between short-term and long-term goals
+Recognizing complex, multi-step plans
+
+Causal Reasoning:(Most crucial area)
+
+Understanding cause-and-effect relationships between events in the video
+Inferring hidden states or off-screen events that influence visible actions
+
+Predictive Modeling:
+
+Anticipating future actions or events based on observed patterns and inferred intentions
+Generating multiple plausible scenarios for how a situation might unfold
+
 
 
 
