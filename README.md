@@ -236,6 +236,8 @@ Anticipating future actions or events based on observed patterns and inferred in
 Generating multiple plausible scenarios for how a situation might unfold
 
 
+# Research on Large language models and causality 
+
 
 
 
