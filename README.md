@@ -238,9 +238,9 @@ Generating multiple plausible scenarios for how a situation might unfold
 
 # Research on Large language models and causality 
 
-# Research on training diffusion models with reinforcement learning 
+# Research on training diffusion models with reinforcement learning(Reference sergey levine paper)
 
-
+<img width="1124" alt="Screenshot 2024-07-23 at 4 58 34 PM" src="https://github.com/user-attachments/assets/c5367563-db9f-430a-a5d7-21875e006675">
 
 
 
