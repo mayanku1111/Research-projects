@@ -238,8 +238,7 @@ Generating multiple plausible scenarios for how a situation might unfold
 
 # Research on Large language models and causality 
 
-
-
+# Research on training diffusion models with reinforcement learning 
 
 
 
