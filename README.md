@@ -242,7 +242,9 @@ Generating multiple plausible scenarios for how a situation might unfold
 
 <img width="1124" alt="Screenshot 2024-07-23 at 4 58 34 PM" src="https://github.com/user-attachments/assets/c5367563-db9f-430a-a5d7-21875e006675">
 
+# A Large Language Model for Zero-Shot Video Generation
 
+## VideoPoet: [link](https://arxiv.org/abs/2312.14125)
 
 
 
