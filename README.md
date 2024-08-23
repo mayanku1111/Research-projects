@@ -115,8 +115,8 @@ Design a diffusion model that can generate 3D objects based on textual descripti
 
 ## Relevant resource:-HOLODIFFUSION: Training a 3D Diffusion Model using 2D Images(research paper by meta and ucl)
 
-[link](https://openaccess.thecvf.com/content/CVPR2023/papers/Karnewar_HOLODIFFUSION_Training_a_3D_Diffusion_Model_Using_2D_Images_CVPR_2023_paper.pdf)
-[Link](https://one-2-3-45.github.io/)
+# [link](https://openaccess.thecvf.com/content/CVPR2023/papers/Karnewar_HOLODIFFUSION_Training_a_3D_Diffusion_Model_Using_2D_Images_CVPR_2023_paper.pdf)
+# [Link](https://one-2-3-45.github.io/)
 
 Diffusion Models:
 
