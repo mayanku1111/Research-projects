@@ -247,6 +247,7 @@ Generating multiple plausible scenarios for how a situation might unfold
 
 ## VideoPoet: [link](https://arxiv.org/abs/2312.14125)
 
+# I want to build api key for custom llm that can interact with frontend i created ,so basically llm can generate json response and then it will interact with node.js server and then it will interact with react frontend.
 
 
 
